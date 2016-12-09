@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f0e0843-e149-4e5f-b258-12e460e8a9b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/ProductDaoImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/emusicstore_war_exploded/WEB-INF/classes/com/emusicstore/controller/HomeController.class" afterPath="$PROJECT_DIR$/out/artifacts/emusicstore_war_exploded/WEB-INF/classes/com/emusicstore/controller/HomeController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/emusicstore_war_exploded/WEB-INF/classes/com/emusicstore/dao/ProductDao.class" afterPath="$PROJECT_DIR$/out/artifacts/emusicstore_war_exploded/WEB-INF/classes/com/emusicstore/dao/ProductDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/emusicstore_war_exploded/WEB-INF/classes/com/emusicstore/model/Product.class" afterPath="$PROJECT_DIR$/out/artifacts/emusicstore_war_exploded/WEB-INF/classes/com/emusicstore/model/Product.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/emusicstore/controller/HomeController.class" afterPath="$PROJECT_DIR$/target/classes/com/emusicstore/controller/HomeController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/emusicstore/dao/ProductDao.class" afterPath="$PROJECT_DIR$/target/classes/com/emusicstore/dao/ProductDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/emusicstore/model/Product.class" afterPath="$PROJECT_DIR$/target/classes/com/emusicstore/model/Product.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/emusicstore_war_exploded/WEB-INF/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/out/artifacts/emusicstore_war_exploded/WEB-INF/dispatcher-servlet.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/emusicstore_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/emusicstore_war_exploded/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/HomeController.java" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/HomeController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/ProductDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/ProductDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Product.java" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Product.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/webapp/WEB-INF/applicationContext.xml" afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/webapp/WEB-INF/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/dispatcher-servlet.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -80,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -89,10 +75,27 @@
       <file leaf-file-name="Product.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/model/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+            <state relative-caret-position="102">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <marker date="1481315728271" expanded="false" signature="656:667" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="738:749" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="894:905" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="982:993" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="1082:1093" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="1181:1192" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="1290:1301" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="1389:1400" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="1480:1491" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="1571:1582" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="1674:1685" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="1770:1781" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="1864:1875" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="1949:1960" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="2034:2045" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="2126:2137" ph=" { " />
+                <marker date="1481315728271" expanded="false" signature="2238:2249" ph=" { " />
               </folding>
             </state>
           </provider>
@@ -181,12 +184,12 @@
         <option value="$PROJECT_DIR$/src/webapp/WEB-INF/views/productList.jsp" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Product.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/ProductDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/dao/impl/ProductDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/HomeController.java" />
-        <option value="$PROJECT_DIR$/src/webapp/WEB-INF/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/webapp/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/webapp/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/emusicstore/model/Product.java" />
       </list>
     </option>
   </component>
@@ -874,16 +877,16 @@
       <workItem from="1481137780157" duration="2351000" />
       <workItem from="1481143267933" duration="723000" />
       <workItem from="1481144101132" duration="10361000" />
-      <workItem from="1481312834454" duration="1300000" />
+      <workItem from="1481312834454" duration="2062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34441000" />
+    <option name="totallyTimeSpent" value="35203000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -894,7 +897,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4099379" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4099379" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -983,6 +986,23 @@
           <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
+            <marker date="1481315728271" expanded="false" signature="656:667" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="738:749" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="894:905" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="982:993" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1082:1093" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1181:1192" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1290:1301" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1389:1400" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1480:1491" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1571:1582" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1674:1685" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1770:1781" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1864:1875" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1949:1960" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="2034:2045" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="2126:2137" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="2238:2249" ph=" { " />
           </folding>
         </state>
       </provider>
@@ -1241,14 +1261,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1257,12 +1269,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/emusicstore/model/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        <state relative-caret-position="102">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+            <marker date="1481315728271" expanded="false" signature="656:667" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="738:749" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="894:905" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="982:993" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1082:1093" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1181:1192" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1290:1301" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1389:1400" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1480:1491" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1571:1582" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1674:1685" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1770:1781" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1864:1875" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="1949:1960" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="2034:2045" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="2126:2137" ph=" { " />
+            <marker date="1481315728271" expanded="false" signature="2238:2249" ph=" { " />
           </folding>
         </state>
       </provider>
